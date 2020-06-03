@@ -30,6 +30,8 @@ How to install (for complete beginners):
   
 5. Type in the Command Prompt: cd Downloads
   - Hit Enter
+  - Type in the Command Prompt: cd Stream-for-BLM
+  - Type in the Command Prompt again: cd Stream-for-BLM
 
 6. Type in the Command Prompt: python Stream#BLM.py
   - Hit Enter
