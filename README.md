@@ -30,8 +30,8 @@ How to install (for complete beginners):
   
 5. Type in the Command Prompt: cd Downloads
   - Hit Enter
-  - Type in the Command Prompt: cd Stream-for-BLM
-  - Type in the Command Prompt again: cd Stream-for-BLM
+  - Type in the Command Prompt: cd Stream-for-BLM-master
+  - Type in the Command Prompt again: cd Stream-for-BLM-master
 
 6. Type in the Command Prompt: python Stream#BLM.py
   - Hit Enter
@@ -60,6 +60,8 @@ How to Install (quick version):
   - Edit parameters to whatever suits best
   - In order to generate ad revenue, must not skip, must not loop, must not mute, must watch 3-5 videos in between
   - Tab must be in-focus for code to work
+  
+For questions/concerns/advice, please email chrecci@gmail.com
 
 
 
