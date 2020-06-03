@@ -42,12 +42,12 @@ while end - start < 40000:
 
     #watch next few random videos
     for i in range(x):
-        time.sleep(10)
         with keyboard.pressed(Key.shift):
             keyboard.press('n')
         keyboard.release('n')
         keyboard.release(Key.shift)
-
+        time.sleep(10)
+        
     #close tab
     with keyboard.pressed(Key.ctrl):
         keyboard.press('w')
