@@ -8,7 +8,7 @@ NOTE: As good as it is to generate free revenue to support the cause, please tak
 
 ### 1. Install python, and pynput
   - Install python here: https://www.python.org/downloads/
-  - Enter into Command Prompt/Terminal: pip install pynput
+  - Install PyAutoGUI using pip command line: https://pyautogui.readthedocs.io/en/latest/install.html
   
 ### 2. Download master-channel repository
 
@@ -39,17 +39,19 @@ NOTE: As good as it is to generate free revenue to support the cause, please tak
 ### 3. Open Command Prompt
   - For Windows: search "cmd", hit Enter to open
 
-### 4. Type in the Command Prompt: pip install pyautogui
+### 4. Install PyAutoGUI 
+  - Enter in Command Prompt: `pip install pyautogui`
   - Hit Enter
   - Wait a bit for it to finish. It's finished when you can type again
   - For help installing: https://pyautogui.readthedocs.io/en/latest/install.html
   
-### 5. Type in the Command Prompt: cd Downloads
-  - Hit Enter
-  - Type in the Command Prompt: cd Stream-for-BLM-master
-  - Type in the Command Prompt again: cd Stream-for-BLM-master
+### 5. Change Directory
+  - Enter in Command Prompt: `cd Downloads`
+  - Enter in the Command Prompt: `cd Stream-for-BLM-master`
+  - Enter in the Command Prompt again: `cd Stream-for-BLM-master`
 
-### 6. Type in the Command Prompt: python Stream#BLMwin.py
+### 6. Run Code
+  - Type in Command Prompt: `python Stream#BLMwin.py`
   - Hit Enter
   
 ### 7. Sit back, relax, don't touch anything
